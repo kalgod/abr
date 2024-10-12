@@ -1,0 +1,1 @@
+Average reward of all traces for Algorithm bb: 0.2781986924002987
